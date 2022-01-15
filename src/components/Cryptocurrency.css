@@ -1,0 +1,15 @@
+.name {
+    float: left;
+    padding-left: 1rem;
+}
+
+
+.price {
+    float: right;
+    color: green;
+    padding-right: 1rem;
+}
+
+hr {
+    color:lightgray;
+}

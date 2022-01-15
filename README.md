@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Brainstorming:
+
+cryptocurrency app brainstorming:
+	- default screen displays the most popular cryptos and their price
+		- the price is colored green if it is up that day, and red if it is down that day
+		- a search bar for searching any crypto currency
+	- when clicking crypto-currency, there should be a plot showing the price of the crypto
+		- using machine learning, create a forecast for the cryptocurrency
+		- find an api that describes the blockchain technology +  history of the cryptocurrency
+
+# Current Task: display a list of crypto currencies and their current price
